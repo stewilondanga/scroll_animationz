@@ -233,11 +233,12 @@ img {
   perspective: 0;
 }
 
-/*#gallery figure:nth-child(7n) {
-	--duration: 1s;
-	--pin-color: crimson;
+#gallery figure:nth-child(7n) {
+  --duration: 1s;
+  --pin-color: crimson;
 }
-#gallery figure:nth-child(7n + 1) {
+
+/*#gallery figure:nth-child(7n + 1) {
 	--duration: 1.8s;
 	--pin-color: hotpink;
 }
