@@ -415,8 +415,8 @@ figure>div {
 	}
 }
 */
-/*@media (min-width: 800px) {
-	#gallery {
-		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-	}
+@media (min-width: 800px) {
+  #gallery {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  }
 }
