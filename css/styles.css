@@ -360,11 +360,12 @@ figure figcaption {
   z-index: 1;
 }
 
-/*figure h2 {
-	color: crimson;
-	font-size: 22px;
+figure h2 {
+  color: crimson;
+  font-size: 22px;
 }
-figure p {
+
+/*figure p {
 	font-size: 17px;
 }
 figure small {
