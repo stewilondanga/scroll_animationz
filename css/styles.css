@@ -398,12 +398,13 @@ figure>div {
   }
 }
 
-/*#info {
-	position: relative;
-	text-align: center;
-	z-index: 1;
+#info {
+  position: relative;
+  text-align: center;
+  z-index: 1;
 }
-#info a {
+
+/*#info a {
 	font-size: 1.1rem;
 }
 /*
