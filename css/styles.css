@@ -213,14 +213,15 @@ a {
   text-decoration: none;
 }
 
-/*img {
-	-moz-user-select: none;
-	-webkit-user-select: none;
-	-ms-user-select: none;
-	user-select: none;
-	pointer-events: none;
+img {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
 }
-#gallery {
+
+/*#gallery {
 	position: relative;
 	left: calc(-1 * var(--adjust-size));
 	display: grid;
