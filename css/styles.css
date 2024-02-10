@@ -318,17 +318,18 @@ img {
   backface-visibility: hidden;
 }
 
-/*#gallery.active figure {
-	animation-duration: var(--duration), 1.5s;
-	animation-delay: var(--delay),
-		calc(var(--delay) + var(--duration) * var(--count));
-	animation-timing-function: ease-in-out;
-	animation-iteration-count: var(--count), 1;
-	animation-direction: var(--direction), normal;
-	animation-fill-mode: both;
-	animation-name: swing, swingEnd;
+#gallery.active figure {
+  animation-duration: var(--duration), 1.5s;
+  animation-delay: var(--delay),
+    calc(var(--delay) + var(--duration) * var(--count));
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: var(--count), 1;
+  animation-direction: var(--direction), normal;
+  animation-fill-mode: both;
+  animation-name: swing, swingEnd;
 }
-#gallery figure:after {
+
+/*#gallery figure:after {
 	position: absolute;
 	top: 0.22rem;
 	left: 50%;
