@@ -171,13 +171,13 @@ a {
   --adjust-size: 0px;
 }
 
-/*
 * {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-html,
+
+/*html,
 body {
 	overscroll-behavior-x: none;
 	overscroll-behavior-y: none;
