@@ -392,12 +392,13 @@ figure>div {
   }
 }
 
-/*@keyframes swingEnd {
-	to {
-		transform: rotate3d(0, 0, 1, 0deg);
-	}
+@keyframes swingEnd {
+  to {
+    transform: rotate3d(0, 0, 1, 0deg);
+  }
 }
-#info {
+
+/*#info {
 	position: relative;
 	text-align: center;
 	z-index: 1;
