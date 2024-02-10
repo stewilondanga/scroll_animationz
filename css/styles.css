@@ -204,10 +204,11 @@ main {
   overflow-x: hidden;
 }
 
-/*p {
-	line-height: 1;
+p {
+  line-height: 1;
 }
-a {
+
+/*a {
 	color: crimson;
 	text-decoration: none;
 }
