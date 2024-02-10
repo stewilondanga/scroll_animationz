@@ -258,11 +258,12 @@ img {
   --pin-color: darkorchid;
 }
 
-/*#gallery figure:nth-child(7n + 5) {
-	--duration: 1.6s;
-	--pin-color: deeppink;
+#gallery figure:nth-child(7n + 5) {
+  --duration: 1.6s;
+  --pin-color: deeppink;
 }
-#gallery figure:nth-child(7n + 6) {
+
+/*#gallery figure:nth-child(7n + 6) {
 	--duration: 1.2s;
 	--pin-color: mediumvioletred;
 }
