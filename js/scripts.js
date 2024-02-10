@@ -1,3 +1,4 @@
+/*
 var navigate = (function() {
 	$('.dd').toggle();
 	$('.dd_btn').click(function() {
@@ -32,3 +33,4 @@ var navigate = (function() {
 		animStart();
 	};
 })();
+*/

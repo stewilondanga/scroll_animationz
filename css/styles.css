@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+/*@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
 .share__icon {
   width: 32px;
@@ -168,8 +168,9 @@ a {
 
 @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400&display=swap");
 :root {
-	--adjust-size: 0px; /* 必要に応じて */
+	--adjust-size: 0px;
 }
+
 * {
 	margin: 0;
 	padding: 0;
@@ -382,7 +383,7 @@ figure > div {
 	}
 }
 */
-@media (min-width: 800px) {
+/*@media (min-width: 800px) {
 	#gallery {
 		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 	}
