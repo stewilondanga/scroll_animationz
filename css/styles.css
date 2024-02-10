@@ -243,11 +243,12 @@ img {
   --pin-color: hotpink;
 }
 
-/*#gallery figure:nth-child(7n + 2) {
-	--duration: 1.3s;
-	--pin-color: magenta;
+#gallery figure:nth-child(7n + 2) {
+  --duration: 1.3s;
+  --pin-color: magenta;
 }
-#gallery figure:nth-child(7n + 3) {
+
+/*#gallery figure:nth-child(7n + 3) {
 	--duration: 1.5s;
 	--pin-color: orangered;
 }
