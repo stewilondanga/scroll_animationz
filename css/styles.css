@@ -344,16 +344,17 @@ img {
   z-index: 2;
 }
 
-/*figure img {
-	aspect-ratio: 1 /1;
-	width: 100%;
-	object-fit: cover;
-	display: block;
-	border-radius: 5px;
-	margin-bottom: 10px;
-	z-index: 1;
+figure img {
+  aspect-ratio: 1 /1;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  z-index: 1;
 }
-figure figcaption {
+
+/*figure figcaption {
 	font-size: 14px;
 	font-weight: 400;
 	z-index: 1;
