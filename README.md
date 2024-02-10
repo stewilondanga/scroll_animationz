@@ -23,7 +23,7 @@ scroll-based animations is ScrollMagic, which adds a seamless and interactive to
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/scrollmagic-website.git
+   git clone https://github.com/stewilondanga/scroll_animationz.git
    ```
 
 2. Open the `index.html` file in your preferred web browser to view the website locally.
@@ -37,7 +37,7 @@ scroll-based animations is ScrollMagic, which adds a seamless and interactive to
 ## Dependencies
 
 - **ScrollMagic**: The ScrollMagic library is used for handling scroll-based animations. You can find more information and documentation on the official
--  [ScrollMagic website](https://scrollmagic.io/).
+-  [ScrollMagic website](https://stewilondanga.github.io/scroll_animationz/).
 
 ## Contributing
 
