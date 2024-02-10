@@ -276,10 +276,11 @@ img {
   --angle: -3.3deg;
 }
 
-/*#gallery figure:nth-child(3n + 2) {
-	--angle: 2.4deg;
+#gallery figure:nth-child(3n + 2) {
+  --angle: 2.4deg;
 }
-#gallery figure:nth-child(odd) {
+
+/*#gallery figure:nth-child(odd) {
 	--direction: alternate;
 }
 #gallery figure:nth-child(even) {
