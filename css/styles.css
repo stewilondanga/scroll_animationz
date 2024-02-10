@@ -382,15 +382,17 @@ figure>div {
   align-items: center;
 }
 
-/*@keyframes swing {
-	0% {
-		transform: rotate3d(0, 0, 1, calc(-1 * var(--angle)));
-	}
-	100% {
-		transform: rotate3d(0, 0, 1, var(--angle));
-	}
+@keyframes swing {
+  0% {
+    transform: rotate3d(0, 0, 1, calc(-1 * var(--angle)));
+  }
+
+  100% {
+    transform: rotate3d(0, 0, 1, var(--angle));
+  }
 }
-@keyframes swingEnd {
+
+/*@keyframes swingEnd {
 	to {
 		transform: rotate3d(0, 0, 1, 0deg);
 	}
