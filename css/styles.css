@@ -268,10 +268,11 @@ img {
   --pin-color: mediumvioletred;
 }
 
-/*#gallery figure:nth-child(3n) {
-	--angle: 3deg;
+#gallery figure:nth-child(3n) {
+  --angle: 3deg;
 }
-#gallery figure:nth-child(3n + 1) {
+
+/*#gallery figure:nth-child(3n + 1) {
 	--angle: -3.3deg;
 }
 #gallery figure:nth-child(3n + 2) {
