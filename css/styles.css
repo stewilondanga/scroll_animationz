@@ -404,9 +404,10 @@ figure>div {
   z-index: 1;
 }
 
-/*#info a {
-	font-size: 1.1rem;
+#info a {
+  font-size: 1.1rem;
 }
+
 /*
 @media (orientation: landscape) {
 	#gallery {
