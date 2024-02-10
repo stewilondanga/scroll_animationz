@@ -280,10 +280,11 @@ img {
   --angle: 2.4deg;
 }
 
-/*#gallery figure:nth-child(odd) {
-	--direction: alternate;
+#gallery figure:nth-child(odd) {
+  --direction: alternate;
 }
-#gallery figure:nth-child(even) {
+
+/*#gallery figure:nth-child(even) {
 	--direction: alternate-reverse;
 }
 #gallery figure {
