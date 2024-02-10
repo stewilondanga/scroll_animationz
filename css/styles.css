@@ -166,10 +166,12 @@ a {
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400&display=swap");
-/*:root {
-	--adjust-size: 0px;
+
+:root {
+  --adjust-size: 0px;
 }
 
+/*
 * {
 	margin: 0;
 	padding: 0;
