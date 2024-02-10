@@ -101,13 +101,13 @@
   transition-delay: 0.4s;
 }
 
-/*a {
+a {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 20px;
   text-decoration: none;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 30px 0 0 30px;
   position: absolute;
