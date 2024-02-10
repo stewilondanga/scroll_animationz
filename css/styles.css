@@ -221,18 +221,19 @@ img {
   pointer-events: none;
 }
 
-/*#gallery {
-	position: relative;
-	left: calc(-1 * var(--adjust-size));
-	display: grid;
-	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-	gap: 20px;
-	max-width: 100vw;
-	padding: 20px;
-	-webkit-perspective: 0;
-	perspective: 0;
+#gallery {
+  position: relative;
+  left: calc(-1 * var(--adjust-size));
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 20px;
+  max-width: 100vw;
+  padding: 20px;
+  -webkit-perspective: 0;
+  perspective: 0;
 }
-#gallery figure:nth-child(7n) {
+
+/*#gallery figure:nth-child(7n) {
 	--duration: 1s;
 	--pin-color: crimson;
 }
