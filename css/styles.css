@@ -329,21 +329,22 @@ img {
   animation-name: swing, swingEnd;
 }
 
-/*#gallery figure:after {
-	position: absolute;
-	top: 0.22rem;
-	left: 50%;
-	width: 0.7rem;
-	height: 0.7rem;
-	content: "";
-	background: var(--pin-color);
-	border-radius: 50%;
-	box-shadow: -0.1rem -0.1rem 0.3rem 0.02rem rgba(0, 0, 0, 0.5) inset;
-	filter: drop-shadow(0.3rem 0.15rem 0.2rem rgba(0, 0, 0, 0.5));
-	transform: translateZ(0);
-	z-index: 2;
+#gallery figure:after {
+  position: absolute;
+  top: 0.22rem;
+  left: 50%;
+  width: 0.7rem;
+  height: 0.7rem;
+  content: "";
+  background: var(--pin-color);
+  border-radius: 50%;
+  box-shadow: -0.1rem -0.1rem 0.3rem 0.02rem rgba(0, 0, 0, 0.5) inset;
+  filter: drop-shadow(0.3rem 0.15rem 0.2rem rgba(0, 0, 0, 0.5));
+  transform: translateZ(0);
+  z-index: 2;
 }
-figure img {
+
+/*figure img {
 	aspect-ratio: 1 /1;
 	width: 100%;
 	object-fit: cover;
