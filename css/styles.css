@@ -177,13 +177,14 @@ a {
   box-sizing: border-box;
 }
 
-/*html,
+html,
 body {
-	overscroll-behavior-x: none;
-	overscroll-behavior-y: none;
-	scroll-behavior: smooth;
+  overscroll-behavior-x: none;
+  overscroll-behavior-y: none;
+  scroll-behavior: smooth;
 }
-body {
+
+/*body {
 	position: relative;
 	color: #222;
 	font-family: "Kalam", sans-serif;
