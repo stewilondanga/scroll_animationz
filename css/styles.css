@@ -165,8 +165,8 @@ a {
   line-height: 100%;
 }
 
-/*@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400&display=swap");
-:root {
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400&display=swap");
+/*:root {
 	--adjust-size: 0px;
 }
 
