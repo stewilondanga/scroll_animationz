@@ -354,12 +354,13 @@ figure img {
   z-index: 1;
 }
 
-/*figure figcaption {
-	font-size: 14px;
-	font-weight: 400;
-	z-index: 1;
+figure figcaption {
+  font-size: 14px;
+  font-weight: 400;
+  z-index: 1;
 }
-figure h2 {
+
+/*figure h2 {
 	color: crimson;
 	font-size: 22px;
 }
