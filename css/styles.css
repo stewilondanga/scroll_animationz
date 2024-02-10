@@ -208,11 +208,12 @@ p {
   line-height: 1;
 }
 
-/*a {
-	color: crimson;
-	text-decoration: none;
+a {
+  color: crimson;
+  text-decoration: none;
 }
-img {
+
+/*img {
 	-moz-user-select: none;
 	-webkit-user-select: none;
 	-ms-user-select: none;
